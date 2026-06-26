@@ -1,0 +1,11 @@
+{
+    "id": "omrawaley.music",
+    "title": "Music",
+    "description": "Official music player",
+    "genre": "Music",
+    "version": "0.1.0",
+    "author": "Om Rawaley",
+    "date": "2026-06-20",
+    "binary": "music.bin",
+    "image": "music-image.bin"
+}

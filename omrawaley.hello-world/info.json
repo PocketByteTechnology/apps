@@ -1,0 +1,11 @@
+{
+    "id": "omrawaley.hello-world",
+    "title": "Hello World!",
+    "description": "Simple demo program.",
+    "genre": "Demo",
+    "version": "0.1.0",
+    "author": "Om Rawaley",
+    "date": "2026-02-25",
+    "binary": "hello-world-program.bin",
+    "image": "hello-world-image.bin"
+}
